@@ -1,3 +1,8 @@
+# 
+# Jordan Campbell
+# 19 February 2020
+# Count the number of occurances of the characters 'A', 'C', 'G', 'T' in a string.
+
 with open("dna.txt", 'r') as fh:
     data = fh.read()
 
